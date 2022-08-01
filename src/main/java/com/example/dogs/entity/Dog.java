@@ -22,4 +22,5 @@ public class Dog {
     private String name;
     private String breed;
     private String origin;
+    private String test;
 }
